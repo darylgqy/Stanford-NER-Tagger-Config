@@ -21,7 +21,7 @@ nltk.download("punkt")
 ```
 
 ## Set-up Java for Stanford NER
-Given Stanford NER runs on Java, we will also need Java Runtime Environment (JRE) in order to use NLTK a a python parser. <br>
+Given Stanford NER runs on Java, we will also need Java Runtime Environment (JRE) in order to use NLTK as a python parser. <br>
 To download (only if you do not have Java installed):
 - [Java] https://java.com/en/download/
 
