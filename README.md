@@ -1,5 +1,5 @@
 # Stanford-NER-Tagger-Config
-Short guide to configuring Stanford NER for Python
+Short guide to configure Stanford NER for Python
 
 # Stanford NER Tagging
 NER stands for **Named Entity Recognition**. It is to extract information from unstructured text, basically by extraction a real world entity from the text (e.g. Person, Organization, Event, etc). This is to determine the relationships between different named entities.
