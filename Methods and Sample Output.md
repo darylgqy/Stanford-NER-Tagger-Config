@@ -70,8 +70,8 @@ def main():
     tokenized_text = process_text(r"C:\Users\Daryl\Desktop\Data Analysis\Stanford NER\text1.txt")
     tagged = stanford_tagger(tokenized_text)
 ```
-
-```Sample Output:
+###Sample Output
+```
 [('``', 'O'),
  ('Singapore', 'LOCATION'),
  ('has', 'O'),
