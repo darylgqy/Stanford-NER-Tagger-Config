@@ -17,7 +17,8 @@ After installing Anaconda, search and open Jupyter Notebook.
 Run this code:
 ```python
 import nltk
-nltk.download("punkt")```
+nltk.download("punkt")
+```
 
 ## Set-up Java for Stanford NER
 Given Stanford NER runs on Java, we will also need Java Runtime Environment (JRE) in order to use NLTK a a python parser. <br>
